@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">STBC</string>
+    <string name="open_nav">Open Navigation</string>
+    <string name="close_nav">Close Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Nothing here</string>
+
+    <string name="heading_one">Management</string>
+    <string name="heading_two">Information Technology</string>
+    <string name="heading_three">Computer Science</string>
+    <string name="heading_four">Accounting</string>
+
+    <string name="disc_one">Read The Basic Concepts of Management And Practice With Simulation Exams!</string>
+    <string name="disc_two">Enjoy Incredible Exam Preparation Questions And Tutorials of Information Technology!</string>
+    <string name="disc_three">Fundamental Concepts of Computer Science as well is presented here!</string>
+    <string name="disc_four">Accounting Fundamentals and preparation simulated exams are presented as well!</string>
+</resources>
